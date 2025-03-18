@@ -44,7 +44,7 @@ cd Neptune
 
 
 ```bash
-cp -r ~/.librewolf/your-profile/chrome
+cp -r * ~/.librewolf/your-profile/chrome
 ```
 
 
