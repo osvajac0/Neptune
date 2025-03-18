@@ -9,29 +9,49 @@
 
 ## Edit about:config
 
-- Type about:config in the URL bar
+- Type 'about:config' in the URL bar
 
-- Set toolkit.legacyUserProfileCustomizations.stylesheets to true.
+- Set 'toolkit.legacyUserProfileCustomizations.stylesheets' to true.
 
-- Set svg.context-properties.content.enabled to true.
+- Set 'svg.context-properties.content.enabled' to 'true'.
 
-- Set widget.non-native-theme.use-theme-accent to true
-
-
-## Setup
+- Set 'widget.non-native-theme.use-theme-accent' to 'true'.
 
 
-To install, follow these steps:
+## Setup Instructions
 
 
-1. Clone the repository:  
-   'git clone https://github.com/messi0887/Neptune.git`
+Follow these steps to set up Neptune on your system:
 
 
-2. Navigate to the folder:  
-   `cd Neptune`
+ 1. Clone the repository
 
 
-3. Run the setup:
-```bash  
-   `cp -r ~/.librewolf/your-profile/chrome`
+```bash
+git clone https://github.com/messi0887/Neptune.git
+```
+
+
+ 2. Navigate to the project folder
+
+
+```bash
+cd Neptune
+```
+
+
+ 3. Run the setup
+
+
+```bash
+cp -r ~/.librewolf/your-profile/chrome
+```
+
+
+## Additional Information
+
+- Set all values in the 'Theme builder' to '0%'.
+
+- Home page color light: '#f6f6f6'
+
+- Home page color dark: '#383838'
