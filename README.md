@@ -28,7 +28,7 @@ Follow these steps to set up Neptune on your system:
 
 
 ```bash
-git clone https://github.com/messi0887/Neptune.git
+git clone https://github.com/osvajac0/Neptune.git
 ```
 
 
