@@ -50,7 +50,7 @@ cp -r * ~/.librewolf/your-profile/chrome
 
 ## Additional Information
 
-- Set all values in the 'Theme builder' to '0%'.
+- Set all values in the 'Theme builder' to '-50%'.
 
 - Home page color light: '#f6f6f6'
 
